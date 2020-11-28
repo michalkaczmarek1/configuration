@@ -11,4 +11,4 @@ spring:
 server:
   port: 7777
 accountsapp:
-  allow-get-accounts: false
+  allow-get-accounts: true
