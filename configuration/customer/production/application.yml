@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/customers?serverTimezone=Europe/Warsaw&useSSl=False&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://localhost:3306/accountsapp?serverTimezone=Europe/Warsaw&useSSl=False&allowPublicKeyRetrieval=true
     username: kodilla
     password: kodilla_password
   jpa:
