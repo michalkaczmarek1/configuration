@@ -8,7 +8,5 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
-server:
-  port: 7775
 accountsapp:
   allow-get-accounts: true
